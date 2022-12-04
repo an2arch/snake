@@ -1,0 +1,10 @@
+html, body {
+    height: 98vh;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
